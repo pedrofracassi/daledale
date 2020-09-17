@@ -1,27 +1,27 @@
 {
-  "name": "daledale",
+  "name": "irra",
   "version": "1.0.0",
-  "description": "Dale dale dale dale pqp",
+  "description": "IIIIIIRRRAAAAAAAAAAAA",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/anabastos/daledale.git"
+    "url": "git+ssh://git@github.com/pedrofracassi/irra.git"
   },
   "keywords": [
     "daledale"
   ],
-  "author": "AnaBastos",
+  "author": "Pedro Fracassi",
   "license": "MIT",
   "bin": {
     "daledale": "./index.js"
   },
   "bugs": {
-    "url": "https://github.com/anabastos/daledale/issues"
+    "url": "https://github.com/pedrofracassi/irra/issues"
   },
-  "homepage": "https://github.com/anabastos/daledale#readme",
+  "homepage": "https://github.com/pedrofracassi/irra",
   "dependencies": {
     "ramda": "^0.26.1"
   }
